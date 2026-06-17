@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ed",
+  "universe": "ED · ed (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦ed:ED:014fdb⟧",
+  "carbon": "ed.carbon.tiff (TIFF)",
+  "silicon": "ed.silicon.png (PNG)",
+  "seal_sha256": "b7a022c28dd7151e177daab7d7eddf637815483cdd64870110e405dd6be61706",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

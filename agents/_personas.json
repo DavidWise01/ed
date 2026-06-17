@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-line-address",
+    "name": "The Line Address",
+    "epithet": "addressing by number &amp; regex · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Line Address:ED:7615c7⟧"
+  },
+  {
+    "slug": "g-re-p",
+    "name": "g/re/p",
+    "epithet": "the command that became grep · natural",
+    "emergence": "natural",
+    "moniker": "⟦g/re/p:ED:1547c6⟧"
+  },
+  {
+    "slug": "the-question-mark",
+    "name": "The Question Mark",
+    "epithet": "the tersest error · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Question Mark:ED:8415ec⟧"
+  }
+]

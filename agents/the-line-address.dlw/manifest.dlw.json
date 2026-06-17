@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Line Address",
+  "universe": "ED · The Line Address (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Line Address:ED:7615c7⟧",
+  "carbon": "the-line-address.carbon.tiff (TIFF)",
+  "silicon": "the-line-address.silicon.png (PNG)",
+  "seal_sha256": "f60d9b0d87a0140ec12f98df12848092b4fcca9a0b83695c8a34612121539795",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

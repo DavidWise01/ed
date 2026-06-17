@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Question Mark",
+  "universe": "ED · The Question Mark (TTY · The Terminal)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Question Mark:ED:8415ec⟧",
+  "carbon": "the-question-mark.carbon.tiff (TIFF)",
+  "silicon": "the-question-mark.silicon.png (PNG)",
+  "seal_sha256": "970ac87ca3003fff777c6f4e338d97538302c1b60fc6d5b631bb7f6bd5bf84e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
